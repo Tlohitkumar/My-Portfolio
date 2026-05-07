@@ -55,8 +55,8 @@ const DATA = {
   projects: [
     {
       title:  "Personalized News Aggregator",
-      url:    "https://github.com/Tlohitkumar/Personalized-News-Aggregator-with-Bias-Detection",
-      tag:    "GitHub",
+      url:    "https://personalized-news-aggregator-with-b.vercel.app/",
+      tag:    "Live",
       stack:  ["Java", "React", "MySQL", "JWT", "Python (Flask)", "NLP"],
       impact: "AI + Bias Detection",
       desc:   "Scalable news platform with Spring Boot, React & MySQL delivering personalized real-time news. Features NLP-based bias & sentiment engine classifying content as Left, Right, or Neutral.",
